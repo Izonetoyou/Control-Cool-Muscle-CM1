@@ -33,6 +33,7 @@ Public Class Form1
     Private Sub SerialDataReceived(ByVal data As String)
         Try
             Dim startIndex As Integer = data.IndexOf("Px.1=")
+
             If startIndex <> -1 Then
                 Dim extractedText As String = data.Substring(startIndex)
 
@@ -57,9 +58,16 @@ Public Class Form1
 
     Private Sub Timer_CM_Tick(sender As Object, e As EventArgs) Handles Timer_CM.Tick
         Timer_CM.Enabled = False
-        If cbshowposition.Checked Then Cls_CoolMuscle.readPosition()
+
+        If cbshowposition.Checked Then
+            Cls_CoolMuscle.readPosition()
+
+
+        End If
+
         Timer_CM.Enabled = True
     End Sub
+
 
     Private Sub btnHome_Click(sender As Object, e As EventArgs) Handles btnHome.Click
         Cls_CoolMuscle.Home()

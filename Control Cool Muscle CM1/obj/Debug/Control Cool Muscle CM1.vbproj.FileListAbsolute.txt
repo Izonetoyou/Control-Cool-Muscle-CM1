@@ -10,3 +10,15 @@ D:\VB_Net\Control Cool Muscle CM1\Control Cool Muscle CM1\Control Cool Muscle CM
 D:\VB_Net\Control Cool Muscle CM1\Control Cool Muscle CM1\Control Cool Muscle CM1\obj\Debug\Control Cool Muscle CM1.exe
 D:\VB_Net\Control Cool Muscle CM1\Control Cool Muscle CM1\Control Cool Muscle CM1\obj\Debug\Control Cool Muscle CM1.xml
 D:\VB_Net\Control Cool Muscle CM1\Control Cool Muscle CM1\Control Cool Muscle CM1\obj\Debug\Control Cool Muscle CM1.pdb
+D:\VB_Net\Control Cool Muscle CM1\Control-Cool-Muscle-CM1\Control Cool Muscle CM1\bin\Debug\Control Cool Muscle CM1.exe.config
+D:\VB_Net\Control Cool Muscle CM1\Control-Cool-Muscle-CM1\Control Cool Muscle CM1\bin\Debug\Control Cool Muscle CM1.exe
+D:\VB_Net\Control Cool Muscle CM1\Control-Cool-Muscle-CM1\Control Cool Muscle CM1\bin\Debug\Control Cool Muscle CM1.pdb
+D:\VB_Net\Control Cool Muscle CM1\Control-Cool-Muscle-CM1\Control Cool Muscle CM1\bin\Debug\Control Cool Muscle CM1.xml
+D:\VB_Net\Control Cool Muscle CM1\Control-Cool-Muscle-CM1\Control Cool Muscle CM1\obj\Debug\Control Cool Muscle CM1.vbproj.AssemblyReference.cache
+D:\VB_Net\Control Cool Muscle CM1\Control-Cool-Muscle-CM1\Control Cool Muscle CM1\obj\Debug\Control_Cool_Muscle_CM1.Form1.resources
+D:\VB_Net\Control Cool Muscle CM1\Control-Cool-Muscle-CM1\Control Cool Muscle CM1\obj\Debug\Control_Cool_Muscle_CM1.Resources.resources
+D:\VB_Net\Control Cool Muscle CM1\Control-Cool-Muscle-CM1\Control Cool Muscle CM1\obj\Debug\Control Cool Muscle CM1.vbproj.GenerateResource.cache
+D:\VB_Net\Control Cool Muscle CM1\Control-Cool-Muscle-CM1\Control Cool Muscle CM1\obj\Debug\Control Cool Muscle CM1.vbproj.CoreCompileInputs.cache
+D:\VB_Net\Control Cool Muscle CM1\Control-Cool-Muscle-CM1\Control Cool Muscle CM1\obj\Debug\Control Cool Muscle CM1.exe
+D:\VB_Net\Control Cool Muscle CM1\Control-Cool-Muscle-CM1\Control Cool Muscle CM1\obj\Debug\Control Cool Muscle CM1.xml
+D:\VB_Net\Control Cool Muscle CM1\Control-Cool-Muscle-CM1\Control Cool Muscle CM1\obj\Debug\Control Cool Muscle CM1.pdb
