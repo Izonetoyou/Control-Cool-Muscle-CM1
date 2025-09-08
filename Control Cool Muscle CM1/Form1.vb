@@ -10,7 +10,7 @@ Public Class Form1
 
     Private Sub btnConnect_Click(sender As Object, e As EventArgs) Handles btnConnect.Click
         If btnConnect.Text = "Connect" Then
-            If Cls_CoolMuscle.OpenPort("COM5", 38400) Then
+            If Cls_CoolMuscle.OpenPort("COM7", 19200) Then
                 Timer_CM.Enabled = True
                 btnConnect.Text = "Disconnect"
             End If
@@ -75,5 +75,9 @@ Public Class Form1
 
     Private Sub PositionBar_ValueChanged(sender As Object, e As EventArgs) Handles PositionBar.ValueChanged
         Cls_CoolMuscle.PTP(PositionBar.Value, txt_speed.Text, txt_acc.Text)
+    End Sub
+
+    Private Sub btnOrgSearch_Click(sender As Object, e As EventArgs) Handles btnOrgSearch.Click
+        Cls_CoolMuscle.OrgSearch()
     End Sub
 End Class

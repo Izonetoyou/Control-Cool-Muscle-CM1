@@ -72,4 +72,8 @@ Public Class Class_CoolMuscle
     Public Sub StopMotion()
         SendCommand("].1" & vbCrLf)
     End Sub
+
+    Public Sub OrgSearch()
+        SendCommand("I.1" & vbCrLf)
+    End Sub
 End Class

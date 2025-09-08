@@ -40,6 +40,7 @@ Partial Class Form1
         Me.Label2 = New System.Windows.Forms.Label()
         Me.Label3 = New System.Windows.Forms.Label()
         Me.PositionBar = New System.Windows.Forms.TrackBar()
+        Me.btnOrgSearch = New System.Windows.Forms.Button()
         CType(Me.PositionBar, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
@@ -179,11 +180,21 @@ Partial Class Form1
         Me.PositionBar.Size = New System.Drawing.Size(305, 45)
         Me.PositionBar.TabIndex = 16
         '
+        'btnOrgSearch
+        '
+        Me.btnOrgSearch.Location = New System.Drawing.Point(258, 52)
+        Me.btnOrgSearch.Name = "btnOrgSearch"
+        Me.btnOrgSearch.Size = New System.Drawing.Size(75, 23)
+        Me.btnOrgSearch.TabIndex = 17
+        Me.btnOrgSearch.Text = "Org Search"
+        Me.btnOrgSearch.UseVisualStyleBackColor = True
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(362, 435)
+        Me.ClientSize = New System.Drawing.Size(399, 435)
+        Me.Controls.Add(Me.btnOrgSearch)
         Me.Controls.Add(Me.PositionBar)
         Me.Controls.Add(Me.Label3)
         Me.Controls.Add(Me.Label2)
@@ -224,4 +235,5 @@ Partial Class Form1
     Friend WithEvents Label2 As Label
     Friend WithEvents Label3 As Label
     Friend WithEvents PositionBar As TrackBar
+    Friend WithEvents btnOrgSearch As Button
 End Class
